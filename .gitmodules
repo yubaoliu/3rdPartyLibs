@@ -40,9 +40,6 @@
 [submodule "glog"]
 	path = glog
 	url = https://github.com/google/glog.git
-[submodule "vtk"]
-	path = vtk
-	url = https://gitlab.kitware.com/vtk/vtk.git
 [submodule "gflags"]
 	path = gflags
 	url = https://github.com/gflags/gflags.git

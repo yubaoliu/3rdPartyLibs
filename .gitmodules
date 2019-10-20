@@ -1,0 +1,78 @@
+[submodule "g2o"]
+	path = g2o
+	url = https://github.com/RainerKuemmerle/g2o.git
+[submodule "rtabmap"]
+	path = rtabmap
+	url = https://github.com/introlab/rtabmap.git
+[submodule "gtsam"]
+	path = gtsam
+	url = https://github.com/borglab/gtsam.git
+[submodule "libfreenect2"]
+	path = libfreenect2
+	url = https://github.com/OpenKinect/libfreenect2.git
+[submodule "CMake"]
+	path = CMake
+	url = https://github.com/Kitware/CMake.git
+[submodule "grive"]
+	path = grive
+	url = https://github.com/Grive/grive.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/tmux/tmux.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "Pangolin"]
+	path = Pangolin
+	url = https://github.com/stevenlovegrove/Pangolin.git
+[submodule "glew"]
+	path = glew
+	url = https://github.com/nigels-com/glew.git
+[submodule "DBoW2"]
+	path = DBoW2
+	url = https://github.com/dorian3d/DBoW2.git
+[submodule "nvidia-docker"]
+	path = nvidia-docker
+	url = https://github.com/NVIDIA/nvidia-docker.git
+[submodule "pcl"]
+	path = pcl
+	url = https://github.com/PointCloudLibrary/pcl.git
+[submodule "glog"]
+	path = glog
+	url = https://github.com/google/glog.git
+[submodule "vtk"]
+	path = vtk
+	url = https://gitlab.kitware.com/vtk/vtk.git
+[submodule "gflags"]
+	path = gflags
+	url = https://github.com/gflags/gflags.git
+[submodule "RoboWare-Studio"]
+	path = RoboWare-Studio
+	url = https://github.com/TonyRobotics/RoboWare-Studio.git
+[submodule "ros_qtc_plugin"]
+	path = ros_qtc_plugin
+	url = https://github.com/ros-industrial/ros_qtc_plugin.git
+[submodule "CSparse"]
+	path = CSparse
+	url = https://github.com/ibayer/CSparse.git
+[submodule "octomap"]
+	path = octomap
+	url = https://github.com/OctoMap/octomap.git
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/davisking/dlib.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
+[submodule "MobileSim"]
+	path = MobileSim
+	url = https://github.com/srmq/MobileSim.git
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/emacs-mirror/emacs.git
+[submodule "sphinxtrain"]
+	path = sphinxtrain
+	url = https://github.com/cmusphinx/sphinxtrain.git
+[submodule "Mask_RCNN"]
+	path = Mask_RCNN
+	url = https://github.com/matterport/Mask_RCNN.git

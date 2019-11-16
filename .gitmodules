@@ -79,3 +79,12 @@
 [submodule "darknet_ros"]
 	path = darknet_ros
 	url = https://github.com/leggedrobotics/darknet_ros.git
+[submodule "coco"]
+	path = coco
+	url = https://github.com/pdollar/coco.git
+[submodule "librealsense"]
+	path = librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git

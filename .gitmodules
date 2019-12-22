@@ -72,7 +72,7 @@
 	url = https://github.com/cmusphinx/sphinxtrain.git
 [submodule "Mask_RCNN"]
 	path = Mask_RCNN
-	url = https://github.com/matterport/Mask_RCNN.git
+	url = git@github.com:yubaoliu/Mask_RCNN.git
 [submodule "darknet"]
 	path = darknet
 	url = https://github.com/pjreddie/darknet.git
@@ -88,3 +88,6 @@
 [submodule "glfw"]
 	path = glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git

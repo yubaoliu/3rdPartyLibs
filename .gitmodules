@@ -93,4 +93,4 @@
 	url = https://github.com/google/googletest.git
 [submodule "Sophus"]
 	path = Sophus
-	url = https://github.com/strasdat/Sophus.git
+	url = git@github.com:yubaoliu/Sophus.git

@@ -94,3 +94,6 @@
 [submodule "Sophus"]
 	path = Sophus
 	url = git@github.com:yubaoliu/Sophus.git
+[submodule "ceres-solver"]
+	path = ceres-solver
+	url = git@github.com:yubaoliu/ceres-solver.git

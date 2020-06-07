@@ -97,3 +97,15 @@
 [submodule "ceres-solver"]
 	path = ceres-solver
 	url = git@github.com:yubaoliu/ceres-solver.git
+[submodule "ogl"]
+	path = ogl
+	url = https://github.com/opengl-tutorials/ogl.git
+[submodule "glad"]
+	path = glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
+[submodule "LearnOpenGL"]
+	path = LearnOpenGL
+	url = https://github.com/JoeyDeVries/LearnOpenGL.git
